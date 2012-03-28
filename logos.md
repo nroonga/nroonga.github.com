@@ -61,4 +61,14 @@ If you are using nroonga on your project, please use our logo and spread nroonga
 )
   </p>
 
-
+  <h3 id="nroonga-icon-full-size">A nroonga icon (full size version)</h3>
+  <p>
+    <a href="../images/logos/nroonga-icon-full-size.png">
+      <img src="../images/logos/nroonga-icon-full-size.png"
+           alt="A nroonga icon (full size version)">
+    </a>
+  </p>
+  <p>
+    (200x201)
+    (<a href="../images/logos/nroonga-icon-full-size.svg">SVG version</a>)
+  </p>
