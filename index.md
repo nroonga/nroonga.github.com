@@ -1,5 +1,4 @@
 ---
-title: nroonga
 layout: default
 ---
 
