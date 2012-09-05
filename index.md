@@ -8,6 +8,7 @@ layout: default
 
 ## Related Projects
 - [nroonga-httpd](http://github.com/nroonga/nroonga-httpd)
+- [Groonga CloudSearch](http://gcs.groonga.org/)
 
 ## Links
 - [groonga](http://groonga.org/)
